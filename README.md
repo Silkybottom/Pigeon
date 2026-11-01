@@ -2,7 +2,7 @@
 PIGEON 1.1  -  Leader to Leader Comms, Synced callouts and pins. 
 INSTALL
  
- 1. Prerequisite Addons : Libslash, MapMonster (+MiniMapMonster),
+ 1. Prerequisite Addons : Libslash, MapMonster,
     Warband Lead Helper.
  2. Put this Pigeon folder in Interface\AddOns.
  
